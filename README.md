@@ -2,7 +2,7 @@
 
 Pokusila som sa vytvorit dve applikacie s pouzitim Pokemon API. 
 
-Pri JavaScripte som vyuzila JQuery, prislo to ako najlepsie riesenie. 
+Pri JavaScripte som vyuzila JQuery, prislo mi to ako najlepsie riesenie. 
 
 Pri Reacte som vytvorila velmi jednoduchu applikaciu, no bohuzial som ju nevedela dobre otestovat (pracujem na tom a ucim sa ako celkovo React zlepsit).  
 
