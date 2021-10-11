@@ -2,7 +2,7 @@
 
 Pokusila som sa vytvorit dve applikacie s pouzitim Pekemon API. 
 
-Pri JavaScripte som vyuzila JQuery, lebo mi to prislo ako najlepsie riesenie. 
+Pri JavaScripte som vyuzila JQuery, prislo to ako najlepsie riesenie. 
 
 Pri Reacte som vytvorila velmi jednoduchu applikaciu, no bohuzial som ju nevedela dobre otestovat (pracujem na to a ucim sa) ako celkovo React zlepsit.  
 
