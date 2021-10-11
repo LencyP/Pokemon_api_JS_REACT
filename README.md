@@ -1,6 +1,6 @@
 # Pokemon_api_JS_REACT
 
-Pokusila som sa vytvorit dve applikacie s pouzitim Pekemon API. 
+Pokusila som sa vytvorit dve applikacie s pouzitim Pokemon API. 
 
 Pri JavaScripte som vyuzila JQuery, prislo to ako najlepsie riesenie. 
 
